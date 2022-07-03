@@ -11,6 +11,8 @@
 		FAB74A2F287042BE008FB056 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAB74A2E287042BE008FB056 /* ContentView.swift */; };
 		FAB74A31287042C3008FB056 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAB74A30287042C3008FB056 /* Assets.xcassets */; };
 		FAB74A34287042C3008FB056 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAB74A33287042C3008FB056 /* Preview Assets.xcassets */; };
+		FAB74A3B2870448D008FB056 /* Slider.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAB74A3A2870448D008FB056 /* Slider.swift */; };
+		FAB74A3D28704AD3008FB056 /* SliderView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAB74A3C28704AD3008FB056 /* SliderView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		FAB74A2E287042BE008FB056 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		FAB74A30287042C3008FB056 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FAB74A33287042C3008FB056 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		FAB74A3A2870448D008FB056 /* Slider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Slider.swift; sourceTree = "<group>"; };
+		FAB74A3C28704AD3008FB056 /* SliderView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SliderView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +57,8 @@
 			children = (
 				FAB74A2C287042BE008FB056 /* HW3_4App.swift */,
 				FAB74A2E287042BE008FB056 /* ContentView.swift */,
+				FAB74A3C28704AD3008FB056 /* SliderView.swift */,
+				FAB74A3A2870448D008FB056 /* Slider.swift */,
 				FAB74A30287042C3008FB056 /* Assets.xcassets */,
 				FAB74A32287042C3008FB056 /* Preview Content */,
 			);
@@ -138,6 +144,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				FAB74A2F287042BE008FB056 /* ContentView.swift in Sources */,
+				FAB74A3D28704AD3008FB056 /* SliderView.swift in Sources */,
+				FAB74A3B2870448D008FB056 /* Slider.swift in Sources */,
 				FAB74A2D287042BE008FB056 /* HW3_4App.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
